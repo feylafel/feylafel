@@ -4,7 +4,7 @@ My first GitHub repository - starting my coding journey
 # 👋 Hello, I'm Christa 
 
 **Computer Science Student** | AI Specialization + Psychology Minor  
-📍 CUHKSZ | 🎯 Interested in Games, AI, and Interactive Experiences
+📍 CUHKSZ | 🎯 Interested in Games, AI, and Interactive Experiences and Web Development
 
 ## 🛠️ Current Skills
 - **Languages:** Java and C++ (from coursework), Python (learning), Assembly (learning)
